@@ -31,6 +31,6 @@ To run (after plugging in the Rhoeby R2D Scanner to the USB port on your Linux P
 
 Screenshot of program output:
 
-![R2D radar screenshot](https://github.com/jordanjohnp/images/blob/master/r2d_radar_plot_screenshot.png)
+<a href="url"><img src="https://github.com/jordanjohnp/images/blob/master/r2d_radar_plot_screenshot_large.png" width="844" ></a>
 
 The program updates the console each time the scan completes.
